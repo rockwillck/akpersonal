@@ -76,7 +76,7 @@ body {
 	text-align: center;
 	padding: 15px;
 	box-sizing: border-box;
-	font-size: max(24px, 3vmin);
+	font-size: max(24px, 2vmin);
 	z-index: 3;
 	backdrop-filter: blur(10px);
 	-webkit-backdrop-filter: blur(10px);
