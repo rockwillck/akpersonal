@@ -95,3 +95,17 @@ body {
 	background-color: white;
 	color: black;
 }
+
+.post {
+	margin-bottom: 100px;
+}
+
+.credits {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	font-size: 12px;
+}
+.credits > p > a {
+	color: white;
+}
